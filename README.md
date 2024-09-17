@@ -1,33 +1,43 @@
-# Data Engineer - Mohamed Aziz Zammal
+# 👨‍💻 Mohamed Aziz Zammal
 
-#### Technical Skills:
-- Python
-- NodeJs (Express)
-- ReactJs
-- SQL
-- Machine Learning
-- MongoDB
+#### 📞 Téléphone: 55686998
+#### ✉️ Email: zammalmohamedaziz@isikef.u-jendouba.tn
 
-## 💼 Work Experience
-**Data Engineer @Techinx**
+## 🧑‍💼 Profil
+Je suis fraîchement diplômé en Sciences Informatiques - Génie Logiciel et Systèmes d'Informations de l'Institut Supérieur d'Informatique Kef.
 
-_AUG 2023 - PRESENT_
-- Built machine learning models for dyslexia detection.
-- Developed and optimized data pipelines using MongoDB, Express, and ReactJs.
+## 🌐 Langues
+- 🇦🇪 Arabe
+- 🇫🇷 Français
+- 🇬🇧 Anglais
 
-## 📜 Certificates
-### [Advanced Machine Learning Certification - Techinx](https://example.com)
-Gained practical experience in building AI systems, using Python, Express, and MongoDB.
+## 💻 Technologies
+- 🐍 Python
+- 🟢 NodeJs (Express)
+- ⚛️ ReactJs
+- 🤖 Machine Learning
+- 🟠 MongoDB
+- 🐙 Git (GitHub)
+- 🗄️ SQL
 
-## 📊 Projects
-### [Dyslexia Detection System](https://example.com)
-Developed a system to assist in dyslexia detection using React and Python.
+## 🎓 Parcours Académique
+- **2024**: Licence en Sciences Informatiques - Génie Logiciel et Systèmes d'Informations, Institut Supérieur d'Informatique Kef
 
-### [Portfolio Website](https://github.com/username/portfolio)
-A responsive personal portfolio built with Laravel, MySQL, and JavaScript.
+## 🌱 Vie Associative
+- 👨‍🏫 **Scout Leader** : 2011 - 2024
+- 👨‍💻 **Google Developer Student Club** - ISI Kef : 2022
+- 🚑 **Croissant rouge tunisien**: 2022
+- 🌍 **JCI Tunis**: 2021
 
-## 🎓 Education
-**B.S., Computer Science and Software Engineering**  
-Institut Supérieur d'Informatique Kef (_2017 - 2021_)
+## 💼 Expérience Professionnelle
+- **2022**: Stage d'été à Sofiatech - Recherche sur l’Algorithme de Rétropropagation de l’Erreur (Machine Learning)
+- **2023**: Stage de fin d’année à Sofiatech - Site d'aide à la détection de la dyslexie (Angular + Spring Boot + SQL + GitHub)
+- **2024**: Stage de fin d’études à Techinx - Système d'aide à la détection de la dyslexie avec IA (React, Express, MongoDB, Python, Flask)
 
-GPA: 3.2/4.0
+## 📊 Projets
+- 💻 **Site web Presentation PFE** - Reveal.js
+- 🎲 **Random Quote Generator** - Python, React
+- 🤖 **Boot-Discord** - JS
+- 🎮 **Jeux Pokemon** - Java
+- 🌐 **Portfolio** - Laravel, MySQL
+- 🌍 **Site web ISI Kef** - HTML, CSS, JS, PHP
