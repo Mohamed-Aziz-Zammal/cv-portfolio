@@ -33,6 +33,11 @@ Je suis fraîchement diplômé en Sciences Informatiques - Génie Logiciel et Sy
 - **2022**: Stage d'été à Sofiatech - Recherche sur l’Algorithme de Rétropropagation de l’Erreur (Machine Learning)
 - **2023**: Stage de fin d’année à Sofiatech - Site d'aide à la détection de la dyslexie (Angular + Spring Boot + SQL + GitHub)
 - **2024**: Stage de fin d’études à Techinx - Système d'aide à la détection de la dyslexie avec IA (React, Express, MongoDB, Python, Flask)
+- **2024**: Stage de 5 mois chez Devolution sur le projet **SgharToon**
+   - Participation à la réalisation de tâches variées liées au projet SgharToon.
+   - Collaboration active avec l'équipe et implication dans le développement de solutions.
+   - Travail accompli sous la supervision de Mme Ayadi Hidayet, Gérante de la société Devolution.
+
 
 ## 📊 Projets
 - 💻 **Site web Presentation PFE** - Reveal.js
