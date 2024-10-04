@@ -2,6 +2,7 @@
 
 #### 📞 Téléphone: 55686998
 #### ✉️ Email: zammalmohamedaziz@isikef.u-jendouba.tn
+#### 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-aziz-zammal-b19128241/)
 
 ## 🧑‍💼 Profil
 Je suis fraîchement diplômé en Sciences Informatiques - Génie Logiciel et Systèmes d'Informations de l'Institut Supérieur d'Informatique Kef.
@@ -19,6 +20,9 @@ Je suis fraîchement diplômé en Sciences Informatiques - Génie Logiciel et Sy
 - 🟠 MongoDB
 - 🐙 Git (GitHub)
 - 🗄️ SQL
+- 🅰️ Angular
+- ☕ Spring Boot
+
 
 ## 🎓 Parcours Académique
 - **2024**: Licence en Sciences Informatiques - Génie Logiciel et Systèmes d'Informations, Institut Supérieur d'Informatique Kef
