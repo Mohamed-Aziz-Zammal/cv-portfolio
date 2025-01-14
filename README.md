@@ -43,10 +43,10 @@ Actuellement, je suis un étudiant professionnel en **Sécurité des Systèmes d
 - **2022**: Stage d'été à **Sofiatech** - Recherche sur l’Algorithme de Rétropropagation de l’Erreur (Machine Learning)
 - **2023**: Stage de fin d’année à **Sofiatech** - Site d'aide à la détection de la dyslexie (Angular + Spring Boot + SQL + GitHub)
 - **2024**: Stage de fin d’études à **Techinx**
- - Création d'un système d'aide à la détection de la dyslexie avec IA.  
-  - **Technologies utilisées**: React, Express, MongoDB, Python, Flask.  
-  - Témoignage reçu:  
-    > *"I had the chance to see Mohamed Aziz Zammal in action during his end-of-study project here. He really impressed me with how he used AI and the MERN stack to help diagnose dyslexia in kids. What stood out to me was his genuine passion for using tech to tackle important issues. I'm confident he's got a bright future ahead, making a real difference in the tech world."*
+   - Création d'un système d'aide à la détection de la dyslexie avec IA.  
+   - **Technologies utilisées**: React, Express, MongoDB, Python, Flask.  
+   - Témoignage reçu:  
+     > *"I had the chance to see Mohamed Aziz Zammal in action during his end-of-study project here. He really impressed me with how he used AI and the MERN stack to help diagnose dyslexia in kids. What stood out to me was his genuine passion for using tech to tackle important issues. I'm confident he's got a bright future ahead, making a real difference in the tech world."*
 
 - **2024**: Stage de 5 mois chez **Devolution** sur le projet **SgharToon**
    - Participation à la réalisation de tâches variées liées au projet SgharToon.
